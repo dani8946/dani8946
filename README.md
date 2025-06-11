@@ -4,12 +4,8 @@
 ## 🧠 About Me
 
 - 🎓 B.Tech (CSE) Graduate | Junior Research Fellow Aspirant
-- 🔍 Currently focused on: `OCR`, `Computer Vision`, `LLMs`, and `Accessibility AI`
 - 💡 Believer in tech for social impact, especially for underrepresented languages & communities
-
----
-
-- 🔭 I’m currently working on: **Bodo OCR Project, Smart Waste Classification System**
+- 🔭 I’m currently working on: **Bodo OCR Project**
 - 🌱 I’m learning: **LLMs, CRNN Models, Tesseract Training**
 - 📫 How to reach me: **brahmadanielkr@gmail.com**
 - 💬 Ask me about: **Python, ML, OCR, React, GPT API**
@@ -28,8 +24,19 @@
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
 
 ---
+## 📄 Publications
 
+- **Daniel Kr Brahma**, et al. _"Impact of Augmented Reality : Applications in Education"_,.  
+  [🔗 View Paper](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003534112-49/impact-augmented-reality-applications-education-khushi-rao-daniel-kr-brahma-jagriti-das-alongbar-wary-gaurav-indra) *(Published in Computational Intelligence and Mathematical Application)*  
+  🧠 Focus: Creating a low-cost yet efficient way of learning in a fun way
 
+---
+## 📝 Accepted Papers
+
+- **Daniel Kr Brahma**, et al. _"A Dynamic Approach of Web Pages' Rendering based on Network Speed"_, Accepted at IEEE GCON 2025 *(to appear in proceedings)*  
+  📌 Area: Natural Language Processing, Computer Networks, Human Computer Interaction
+
+  ---
 ## 🔗 Connect with me
 
 <p align="left">

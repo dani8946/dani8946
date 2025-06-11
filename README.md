@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Daniel Kr Brahma</h1>
 <h3 align="center">🚀 Machine Learning | NLP | OCR | Python Developer</h3>
 
+## 🧠 About Me
+
+- 🎓 B.Tech (CSE) Graduate | Junior Research Fellow Aspirant
+- 🔍 Currently focused on: `OCR`, `Computer Vision`, `LLMs`, and `Accessibility AI`
+- 💡 Believer in tech for social impact, especially for underrepresented languages & communities
+
+---
+
 - 🔭 I’m currently working on: **Bodo OCR Project, Smart Waste Classification System**
 - 🌱 I’m learning: **LLMs, CRNN Models, Tesseract Training**
 - 📫 How to reach me: **brahmadanielkr@gmail.com**
@@ -21,14 +29,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=danielkrbrahma&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=danielkrbrahma&theme=radical" />
-</p>
-
----
 
 ## 🔗 Connect with me
 

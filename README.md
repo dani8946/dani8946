@@ -5,7 +5,7 @@
 
 - 🎓 B.Tech (CSE) Graduate | Junior Research Fellow Aspirant
 - 💡 Believer in tech for social impact, especially for underrepresented languages & communities
-- 🔭 I’m currently working on: **Bodo OCR Project**
+- 🔭 I’m currently working on: **OCR Project for Low Resource Language**
 - 🌱 I’m learning: **LLMs, CRNN Models, Tesseract Training**
 - 📫 How to reach me: **brahmadanielkr@gmail.com**
 - 💬 Ask me about: **Python, ML, OCR, React, GPT API**

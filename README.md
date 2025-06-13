@@ -11,7 +11,7 @@
 - 💬 Ask me about: **Python, ML, OCR, React, GPT API**
 - 🏆 Achievements: IEEE GCON 2025 Paper Accepted
 - ⚡ Fun fact: I make AI systems speak low-resource languages 🌍
-- 🌐 Visit my [**Portfolio Website**](https://portfolio-two-phi-81.vercel.app/) to explore my work!
+- 🌐 Visit my [**Portfolio Website**](https://portfolio-sooty-alpha-76.vercel.app/) to explore my work!
 
 ---
 

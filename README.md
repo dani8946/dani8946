@@ -34,7 +34,7 @@
 ---
 ## 📝 Accepted Papers
 
-- **Daniel Kr Brahma**, et al. _"A Dynamic Approach of Web Pages' Rendering based on Network Speed"_, Accepted at IEEE GCON 2025 *(to appear in proceedings)*  
+- **Daniel Kr Brahma**, et al. _"A Dynamic Approach of Web Pages' Rendering based on Network Speed"_, Presented at IEEE GCON 2025.  
   📌 Area: Natural Language Processing, Computer Networks, Human Computer Interaction
 
   ---

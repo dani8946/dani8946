@@ -32,6 +32,7 @@
   🧠 Focus: Creating a low-cost yet efficient way of learning in a fun way
   
 - **Daniel Kr Brahma**, et al. _"A Dynamic Approach of Web Pages' Rendering based on Network Speed"_,.
+  
   [🔗 View Paper](https://ieeexplore.ieee.org/document/11173364) *(Published in 2025 IEEE Guwahati Subsection Conference (GCON))*  
   📌 Area: Natural Language Processing, Computer Networks, Human Computer Interaction
 ---

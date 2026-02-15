@@ -3,7 +3,7 @@
 
 ## 🧠 About Me
 
-- 🎓 B.Tech (CSE) Graduate | Junior Research Fellow Aspirant
+- 🎓 B.Tech (CSE) Graduate | Aspirant
 - 💡 Believer in tech for social impact, especially for underrepresented languages & communities
 - 🔭 I’m currently working on: **OCR Project for Low Resource Language**
 - 🌱 I’m learning: **LLMs, CRNN Models, Tesseract Training**
